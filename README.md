@@ -1,55 +1,25 @@
-<h1 align="center">Hi, I'm masterman331 😎</h1>
+# Hey there, I'm Kočí 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&height=45&lines=Vibe+coding+in+progress...;Learning+and+growing+every+day.;Turning+ideas+into+code.;Embracing+the+journey+of+development.">
-</p>
+I'm a passionate software engineer and systems enthusiast. I thrive in terminals, love tinkering with OS-level stuff, and building **real, large-scale projects** that push the limits of what’s possible.  
 
----
+## 🔧 What I Work With
+- **Languages & Scripting:** Python, Batch, Bash, CMD, HTML, CSS, JavaScript  
+- **Platforms:** Windows (my favorite: Windows 10), Linux  
+- **Tools:** Terminals, shells, text editors, VS Code  
 
-## 🧠 About Me
+## 🚀 What I Do
+- Build complex projects that are absolutely useless  
+- Develop web projects with modern HTML/CSS/JS  
+- Experiment with high-end level programming languages 
+- Constantly push my limits on new technologies and frameworks  
 
-- 🎵 Coding while listening to music ? Yes.
-- 🛠️ I am trying to work with **Python**, **HTML**, **CSS**, **Java**, and **Batch**
-- 🌱 Still learning...
-- 🐧 Linux ? Approved.
+## 🌱 Currently Learning
+- Web development  
+- Security and ethical hacking    
 
----
-
-## ⚙️ Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,java,bash,linux,vscode,github,git,windows" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masterman331&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-</p>
+## 📫 How to Reach Me
+- Gmail: masterman.masterman551@gmail.com  
 
 ---
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=masterman331&theme=tokyonight_duo&hide_border=true" />
-</p>
-
----
-
-## 🧩 Profile Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masterman331&theme=tokyonight" width="90%" />
-</p>
-
----
-
-## ⚡ Projects
-
-```bash
-$ @echo off
-$ cd Desktop && test.bat
-$ echo Still in progress..
+💻 “I turn ideas into code and chaos into structure.”
