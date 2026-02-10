@@ -1,25 +1,25 @@
 # Hey there, I'm Kočí 👋
 
-I'm a passionate software engineer and systems enthusiast. I thrive in terminals, love tinkering with OS-level stuff, and building **real, large-scale projects** that push the limits of what’s possible.  
+I'm a software engineer with a strong focus on systems, automation, and practical problem‑solving. I enjoy working close to the operating system, exploring how things work under the hood, and building projects that challenge my understanding of software and infrastructure.
 
-## 🔧 What I Work With
-- **Languages & Scripting:** Python, Batch, Bash, CMD, HTML, CSS, JavaScript  
-- **Platforms:** Windows (my favorite: Windows 10), Linux  
-- **Tools:** Terminals, shells, text editors, VS Code  
+## 🔧 Technical Skills
+- **Languages & Scripting:** Python, Bash, Batch/CMD, HTML, CSS, JavaScript  
+- **Platforms:** Windows (especially Windows 10), Linux  
+- **Tools & Environments:** Terminal-based workflows, shells, text editors, VS Code  
 
-## 🚀 What I Do
-- Build complex projects that are absolutely useless  
-- Develop web projects with modern HTML/CSS/JS  
-- Experiment with high-end level programming languages 
-- Constantly push my limits on new technologies and frameworks  
+## 🚀 What I Work On
+- Developing system‑level tools and utilities  
+- Building web projects with modern HTML/CSS/JS  
+- Experimenting with both high‑level and low‑level programming concepts  
+- Exploring new technologies, frameworks, and OS internals  
 
 ## 🌱 Currently Learning
 - Web development  
-- Security and ethical hacking    
+- Security and ethical hacking  
 
-## 📫 How to Reach Me
-- Gmail: masterman.masterman551@gmail.com  
+## 📫 Contact
+- **Email:** masterman.masterman551@gmail.com  
 
 ---
 
-💻 “I turn ideas into code and chaos into structure.”
+💻 *“I turn ideas into code and chaos into structure.”*
