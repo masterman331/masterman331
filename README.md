@@ -59,3 +59,21 @@ I develop sophisticated bots that interface with web engines using **Selenium** 
 </a>
 
 </div>
+
+---
+
+## 🪙 Support the Work
+
+If you find these projects useful or interesting, consider supporting development through **Monero**.
+
+<p align="center">
+  <img src="moneroadress.png" alt="Monero Address QR" width="220"/>
+</p>
+
+<p align="center">
+<code>47chh1Z9wvHDP6ZDpzPPETKaXUfsNnmXr8P5cL4ofAkH1fi3mrrvC7tiRoeqxtNCbB1BQ3rqk5k2tSPGoiMSTUTC3iPc9Qu</code>
+</p>
+
+<p align="center">
+  <em>Privacy-preserving support helps maintain independent development.</em>
+</p>
