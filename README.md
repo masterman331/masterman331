@@ -8,13 +8,6 @@
   <em>"Architecture is frozen music. Code is fluid logic."</em>
 </p>
 
-<br/>
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Bash](https://img.shields.io/badge/System-Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![Tor](https://img.shields.io/badge/Privacy-Infrastructure-7D4698?style=for-the-badge&logo=tor-project&logoColor=white)](https://www.torproject.org/)
-[![Security](https://img.shields.io/badge/Security-Cryptography-FF0000?style=for-the-badge&logo=hack-the-box&logoColor=white)]()
-</div>
-
 ---
 
 ## ⚡ Engineering Philosophy
@@ -50,7 +43,7 @@ I develop sophisticated bots that interface with web engines using **Selenium** 
 ---
 
 <div align="center">
-### 📫 Connect
+📫 Connect
 <a href="mailto:masterman.masterman551@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact_Me-333333?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
